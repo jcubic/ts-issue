@@ -1,0 +1,24 @@
+{
+  "name": "ts-issue",
+  "version": "1.0.0",
+  "description": "[Breaking change in 3.x with types on callback functions defined in d.ts file](https://github.com/microsoft/TypeScript/issues/29845) #29845",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcubic/ts-issue.git"
+  },
+  "keywords": [],
+  "author": "Jakub T. Jankiewicz <jcubic@onet.pl> (https://jcubic.pl/jakub-jankiewicz/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcubic/ts-issue/issues"
+  },
+  "homepage": "https://github.com/jcubic/ts-issue#readme",
+  "dependencies": {
+    "@types/jquery": "^3.3.31",
+    "jquery": "^3.4.1"
+  }
+}
