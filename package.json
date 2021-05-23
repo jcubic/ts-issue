@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jcubic/ts-issue#readme",
   "dependencies": {
     "@types/jquery": "^3.3.31",
-    "jquery": "^3.5.0"
+    "jquery": "^3.6.0"
   }
 }
