@@ -10,6 +10,6 @@
   "author": "Jakub T. Jankiewicz <jcubic@onet.pl> (https://jcubic.pl/jakub-jankiewicz/)",
   "license": "ISC",
   "dependencies": {
-    "typescript": "^3.3.3"
+    "typescript": "^3.9.9"
   }
 }
